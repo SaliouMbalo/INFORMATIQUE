@@ -1,0 +1,8 @@
+
+Clé d'activation windows:
+
+Se connecter à CMD en tant que administrateur et executer les 3 requêtes:
+
+1. slmgr/skms kms.msgang.com
+2. slmgr/ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
+3. slmgr/ato
